@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+
+<college>
+    <user>
+        <id>1</id>
+        <name>Rahul</name>
+        <role>Student</role>
+        <department>CSE</department>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Anita</name>
+        <role>Faculty</role>
+        <department>Math</department>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Vikram</name>
+        <role>Student</role>
+        <department>ECE</department>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Priya</name>
+        <role>Faculty</role>
+        <department>Chemistry</department>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Arjun</name>
+        <role>Student</role>
+        <department>Mechanical</department>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Sneha</name>
+        <role>Student</role>
+        <department>IT</department>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Rohit</name>
+        <role>Faculty</role>
+        <department>Physics</department>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Kavita</name>
+        <role>Student</role>
+        <department>Civil</department>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Manoj</name>
+        <role>Faculty</role>
+        <department>Commerce</department>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Neha</name>
+        <role>Student</role>
+        <department>Biology</department>
+    </user>
+
+</college>
