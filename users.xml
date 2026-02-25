@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+
+<users>
+    <user>
+        <id>1</id>
+        <name>Rahul Sharma</name>
+        <role>Student</role>
+        <department>Computer Science</department>
+        <email>rahul@example.com</email>
+    </user>
+
+    <user>
+        <id>2</id>
+        <name>Anita Verma</name>
+        <role>Faculty</role>
+        <department>Mathematics</department>
+        <email>anita@example.com</email>
+    </user>
+
+    <user>
+        <id>3</id>
+        <name>Vikram Singh</name>
+        <role>Student</role>
+        <department>Physics</department>
+        <email>vikram@example.com</email>
+    </user>
+
+    <user>
+        <id>4</id>
+        <name>Priya Mehta</name>
+        <role>Faculty</role>
+        <department>Chemistry</department>
+        <email>priya@example.com</email>
+    </user>
+
+    <user>
+        <id>5</id>
+        <name>Arjun Patel</name>
+        <role>Student</role>
+        <department>Biology</department>
+        <email>arjun@example.com</email>
+    </user>
+
+    <user>
+        <id>6</id>
+        <name>Sneha Kapoor</name>
+        <role>Student</role>
+        <department>English</department>
+        <email>sneha@example.com</email>
+    </user>
+
+    <user>
+        <id>7</id>
+        <name>Rohit Nair</name>
+        <role>Faculty</role>
+        <department>History</department>
+        <email>rohit@example.com</email>
+    </user>
+
+    <user>
+        <id>8</id>
+        <name>Kavita Rao</name>
+        <role>Student</role>
+        <department>Economics</department>
+        <email>kavita@example.com</email>
+    </user>
+
+    <user>
+        <id>9</id>
+        <name>Manoj Kumar</name>
+        <role>Faculty</role>
+        <department>Commerce</department>
+        <email>manoj@example.com</email>
+    </user>
+
+    <user>
+        <id>10</id>
+        <name>Neha Gupta</name>
+        <role>Student</role>
+        <department>Information Technology</department>
+        <email>neha@example.com</email>
+    </user>
+</users>
